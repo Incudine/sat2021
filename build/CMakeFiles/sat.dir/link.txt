@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -O3 -Winline CMakeFiles/sat.dir/src/blocked.cpp.o CMakeFiles/sat.dir/src/clause.cpp.o CMakeFiles/sat.dir/src/elim.cpp.o CMakeFiles/sat.dir/src/init.cpp.o CMakeFiles/sat.dir/src/input.cpp.o CMakeFiles/sat.dir/src/main.cpp.o CMakeFiles/sat.dir/src/solver.cpp.o CMakeFiles/sat.dir/src/subsume.cpp.o CMakeFiles/sat.dir/src/watcher.cpp.o -o sat 
